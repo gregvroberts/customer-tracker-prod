@@ -1,0 +1,25 @@
+{
+  "name": "customer-tracker-prod",
+  "version": "1.0.0",
+  "description": "This is a production-grade Customer Tracking API written for a coding challenge, by Gregory Roberts",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregvroberts/customer-tracker-prod.git"
+  },
+  "keywords": [
+    "heb"
+  ],
+  "author": "Gregory Roberts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregvroberts/customer-tracker-prod/issues"
+  },
+  "homepage": "https://github.com/gregvroberts/customer-tracker-prod#readme"
+}
